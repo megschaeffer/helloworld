@@ -1,7 +1,8 @@
 # helloworld
 This is the repository I created in class
 
-## heading two
+## Heading two
 lorem ipsum
 
-### heading three
+### Heading three
+need some text here too. 
